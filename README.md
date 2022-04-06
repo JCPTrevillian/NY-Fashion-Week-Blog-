@@ -1,4 +1,4 @@
-# NY-Fashion-Week-Blog-
+# NY-Fashion-Week-Blog
 <!DOCTYPE html>
 <html>
   <head> 
