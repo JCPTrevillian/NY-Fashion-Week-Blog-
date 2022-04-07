@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
   <head> 
-    <title>"Everyday with Isa"</title> 
+  <title>"Everyday with Isa"</title> 
   </head>
   <body>
 <a href="#contact"target="_blank"><img src=https://content.codecademy.com/courses/learn-html/elements-and-structure/profile.jpg /></a>
@@ -21,7 +21,7 @@
     <p>“Always be true to your own sense of style, if you don’t you’ll be uncomfortable the whole time and it will show. Remember, NYFW is about expressing yourself and taking in what the designers have chosen to express through their new lines. Also it’s important to wear shoes you’ll be comfortable in all day. Obviously you want to look good, but you’ll be on your feet all day long, so be prepared.”</p>
 <h4>Related Content</h4>
   <ul> 
-    <li>"How To Stule Boyfriend Jeans"</li>
+    <li>"How To Style Boyfriend Jeans"</li>
     <li>"When Print is Too Much"</li>
     <li>"The Overalls Trend"</li>
     <li>"Fall's It Color:Blush"</li>
