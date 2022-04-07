@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html>
   <head> 
-  <title>"Everyday with Isa"</title> 
   </head>
   <body>
 <a href="#contact"target="_blank"><img src=https://content.codecademy.com/courses/learn-html/elements-and-structure/profile.jpg /></a>
